@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: dxrixnd@gmail.com
+- 📫 How to reach me dxrixnd@gmail.com
 
 <!---
 darianthadev/darianthadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
